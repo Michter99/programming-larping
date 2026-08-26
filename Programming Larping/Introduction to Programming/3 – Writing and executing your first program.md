@@ -22,7 +22,7 @@ C code relies on specific syntax rules and foundational building blocks:
 Computers cannot read plain C source code directly; it must be compiled into machine code using a compiler (such as GCC).
 1. **Open Command Prompt / Terminal** and navigate to the directory where your file is saved (e.g., `HelloWorld.c`).
 2. **Compile the code** using GCC:
-```sh
+```shell
 gcc HelloWorld.c -o HelloWorld.out
 ```
 - _(If no output name is specified with `-o`, it defaults to `a.exe` on Windows or `a.out` on Linux/macOS)._
@@ -30,7 +30,6 @@ gcc HelloWorld.c -o HelloWorld.out
 	- On Windows: `HelloWorld.exe` (or `HelloWorld.exe`)        
     - On Linux/macOS: `./HelloWorld.out`
 ### Introduction to IDEs (Integrated Development Environments)
-
 While basic text editors (like Notepad) work fine for small scripts, larger projects benefit from IDEs.
 - **What they do:** IDEs combine a code editor, compiler, debugger, and auto-completion tools into a single application.
 - **Popular examples for C:** Visual Studio, Code::Blocks, CLion, or Dev-C++.
