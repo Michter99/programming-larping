@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Programming/3 – Writing and executing your first program.md",
-                "mode": "source",
+                "file": "Introduction to Programming/5 – Input and Output (Printf and Scanf).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 – Writing and executing your first program"
+              "title": "5 – Input and Output (Printf and Scanf)"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Programming/3 – Writing and executing your first program.md",
+                "file": "Introduction to Programming/5 – Input and Output (Printf and Scanf).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Programming/3 – Writing and executing your first program.md",
+                "file": "Introduction to Programming/5 – Input and Output (Printf and Scanf).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,9 +190,11 @@
   },
   "active": "3de87c4f2f15919c",
   "lastOpenFiles": [
-    "Introduction to Programming/1 – Introduction to programming and programming languages.md",
-    "Introduction to Programming/2 – Basics of computer's memory and Getting started.md",
+    "Introduction to Programming/4 – Data types, Constants and Variables.md",
     "Introduction to Programming/3 – Writing and executing your first program.md",
+    "Introduction to Programming/2 – Basics of computer's memory and Getting started.md",
+    "Introduction to Programming/1 – Introduction to programming and programming languages.md",
+    "Introduction to Programming/5 – Input and Output (Printf and Scanf).md",
     "Untitled.canvas",
     "Untitled.base",
     "Welcome.md",
